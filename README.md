@@ -1,4 +1,4 @@
-<img src="" width="600">
+<img src="imgGithub.png" width="600">
 
 I'm Guy Vulitski. I am a passionate programmer and software developer with a focus on Android development.
 From my childhood I`ve been learning different directions of programming. I started python backend developer and now I am working
